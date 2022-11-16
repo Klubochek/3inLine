@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6822ee58b49c02e44b3deabd76b68b2a, type: 3}
+    - {fileID: 2800000, guid: be5d52461f4a7eb49b8f4acb9444995b, type: 3}
+    - {fileID: 2800000, guid: 280dfe731f6393545a463292caf7e1e2, type: 3}
+    - {fileID: 2800000, guid: 4ea623e68bdbccf4f8f11b58abc38ae2, type: 3}
+    - {fileID: 2800000, guid: 5b4004a945b0f064aa0c9b0f533c2c92, type: 3}
+    - {fileID: 2800000, guid: d985830176abc93458cab785420be793, type: 3}
+    - {fileID: 2800000, guid: 88ed31d5f4266164b8c53f1d7d450725, type: 3}
+    - {fileID: 2800000, guid: cb00e113c0281d548ace98bf142c32b6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d985830176abc93458cab785420be793, type: 3}
+  - {fileID: 21300000, guid: cb00e113c0281d548ace98bf142c32b6, type: 3}
+  - {fileID: 21300000, guid: 280dfe731f6393545a463292caf7e1e2, type: 3}
+  - {fileID: 21300000, guid: 88ed31d5f4266164b8c53f1d7d450725, type: 3}
+  - {fileID: 21300000, guid: be5d52461f4a7eb49b8f4acb9444995b, type: 3}
+  - {fileID: 21300000, guid: 4ea623e68bdbccf4f8f11b58abc38ae2, type: 3}
+  - {fileID: 21300000, guid: 6822ee58b49c02e44b3deabd76b68b2a, type: 3}
+  - {fileID: 21300000, guid: 5b4004a945b0f064aa0c9b0f533c2c92, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - watermelon
+  - avocado
+  - orange
+  - banana
+  - grape
+  - Peach
+  - cherry
+  - strawberry
+  m_RenderDataMap: {}
+  m_Tag: TileAtlas
+  m_IsVariant: 0
